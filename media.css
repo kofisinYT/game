@@ -1,0 +1,9 @@
+@media(max-width: 575px){
+.menu{
+position: static;
+}
+.menu a{
+width: 100%;
+padding: 20px 0px;
+}
+}
